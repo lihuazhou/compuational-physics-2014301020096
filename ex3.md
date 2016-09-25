@@ -1,4 +1,4 @@
-          
+ ```python         
 import time
 import os
 i= os.system('cls')
@@ -85,3 +85,4 @@ print("               #      #    #")
 print("              #       ######")
 print("             #        #    #")
 print("            #####     #    #")
+```
