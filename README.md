@@ -10,5 +10,5 @@
 - [x ] [Exercise_09:](https://www.zybuluo.com/lihuazhou/note/573742) 
 - [x ] [Exercise_10:](https://www.zybuluo.com/lihuazhou/note/581820)
 - [x ] [Exercise_11:](https://www.zybuluo.com/lihuazhou/note/589988) 
-- [ ] [Exercise_12:]()
-- [ ] [Exercise_12:]()
+- [x ] [Exercise_12:](https://www.zybuluo.com/lihuazhou/note/597800)
+- [] [Exercise_13:]()
