@@ -12,3 +12,4 @@
 - [x ] [Exercise_11:](https://www.zybuluo.com/lihuazhou/note/589988) 
 - [x ] [Exercise_12:](https://www.zybuluo.com/lihuazhou/note/597800)
 - [x ] [Exercise_13:](https://www.zybuluo.com/lihuazhou/note/605110)
+- [x ] [Exercise_14:](https://www.zybuluo.com/lihuazhou/note/610147)
